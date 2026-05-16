@@ -1,0 +1,27 @@
+# Vivado generated output
+final.cache/
+final.runs/
+final.sim/
+
+# Hardware/session generated files
+*.jou
+*.log
+*.str
+*.backup.*
+*.tmp
+*.zip
+
+# Large simulation and implementation artifacts
+*.vcd
+*.wdb
+*.dcp
+*.rpx
+*.rpt
+*.pb
+*.sdf
+*.bit
+*.ltx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
